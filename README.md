@@ -1,3 +1,6 @@
+Outdated: they filed for bankruptcy🤣
+https://intercom.help/restocks-bv/en/articles/8593239-why-are-the-return-charges-now-higher-than-before-restocks-used-to-charge-a-flat-rate-of-20
+
 # restocksPaymentChecker
 A simple script to check if your Restocks.net sales have already been paid by checking your bank account logs.
 
